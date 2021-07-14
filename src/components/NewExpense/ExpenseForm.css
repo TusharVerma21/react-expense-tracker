@@ -42,6 +42,10 @@
     margin-bottom: 0.1rem;
   }
 
+  .new-expense__control input {
+    width: 100%;
+  }
+
   .new-expense__actions {
     display: flex;
     justify-content: space-evenly;

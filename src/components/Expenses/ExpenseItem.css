@@ -56,6 +56,11 @@
 }
 
 @media (max-width: 481px) {
+  .expense-item__description {
+    flex-direction: row;
+    align-items: center;
+  }
+
   .expense-item__description h2 {
     margin-right: 0.1rem;
   }
